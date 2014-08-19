@@ -1,11 +1,11 @@
 Pod::Spec.new do |s|
   s.name     = 'MTZoomWindow'
-  s.version  = '0.5.1'
+  s.version  = '0.5.2-Cabo'
   s.platform = :ios
   s.summary  = 'A UIWindow that can be used to zoom in a specific UIView and displays it fullscreen.'
   s.homepage = 'https://github.com/myell0w/MTZoomWindow'
   s.author   = { 'Matthias Tretter' => 'myell0w@me.com' }
-  s.source   = { :git => 'https://github.com/myell0w/MTZoomWindow.git', :tag => '0.5' }
+  s.source   = { :git => 'https://github.com/cabosoft/MTZoomWindow.git', :tag => '0.5.2-Cabo' }
 
   s.description = 'This class provides a simple way to zoom a specific UIView and display it '    \
                   'fullscreen, upon a defined action of the user (uses UIGestureRecognizer to '   \
